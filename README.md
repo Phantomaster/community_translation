@@ -7,4 +7,5 @@
 
 ![alt text](https://github.com/Phantomaster/community_translation/blob/master/localization-doc.jpg)
 
-Name the file by your language and upload it here!
+Name the file by your language and upload it here! (host it on your github or wherever you like and give me link
+or send your translation here: homie.patreon@gmail.com)
